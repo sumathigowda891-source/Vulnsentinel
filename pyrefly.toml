@@ -1,0 +1,7 @@
+# Pyrefly configuration — points to the project venv so it finds all installed packages
+python_interpreter = "/Users/mac/Downloads/vulnsentinel/venv/bin/python3"
+
+# Suppress false-positive overload errors from Pyrefly's bundled Pydantic stubs
+# which lag behind Pydantic v2's actual Field() signature (examples= param).
+[errors]
+no-matching-overload = "ignore"

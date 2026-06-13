@@ -1,0 +1,6 @@
+[run]
+omit =
+    app.py
+    tests/*
+    setup_mac.sh
+    venv/*

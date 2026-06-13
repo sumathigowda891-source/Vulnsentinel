@@ -1,0 +1,13 @@
+venv/
+logs/
+data/chromadb/
+data/nvd/
+data/flashrank_cache/
+.pytest_cache/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+.coverage
+.DS_Store
