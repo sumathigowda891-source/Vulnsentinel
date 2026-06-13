@@ -381,7 +381,7 @@ The presentation explains:
 * How the RAG system improves the application
 * Why RAG was chosen for this project
 
-### For Video Presentation click a link below
+### For Video Presentation click a link below (Also mentioned in folder)
 
 📹 https://drive.google.com/file/d/1KkaDzr872Nckg0ZmQdmRZK09ONAdL9f5/view?usp=sharing
 
